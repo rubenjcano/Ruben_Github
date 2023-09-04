@@ -7,3 +7,8 @@
 ## My Repositories
 
 [My first repository](https://github.com/rubenjcano/MyFirstRepository) This is my very first repository
+
+# Github Statistics
+[!Hua's github stats](https://github-readme-stats.vercel.app/api?username=rubenjcano&show_icons=true&theme=dark)](https://github.com/rubenjcano/github-readme-stats)
+
+### Contact:
